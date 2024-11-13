@@ -121,10 +121,10 @@ http://localhost:3001/swagger#/
 
 ## Sequence diagrams
 ### Get locations
-![Get locations](.doc/locations.jpg)
+![Get locations](locations.jpg)
 
 ## Get weather forecast
-![Get weather forecast](.doc/weather.jpg)
+![Get weather forecast](weather.jpg)
 
 # Note
 Sometime ~~google-geocoder~~ geoplugin.net API will be exceed so the result for location will have format "lat-long". Please check logs in file "logs/error.log" to see the error.
